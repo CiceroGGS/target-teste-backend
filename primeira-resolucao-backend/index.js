@@ -8,7 +8,7 @@ const calcularSoma = () => {
         SOMA = SOMA + K;
     }
 
-    console.log("O valor da variável SOMA é:", SOMA);
+    console.log(`O valor da variável SOMA é: ${SOMA}`);
 };
 
 calcularSoma();
