@@ -1,0 +1,15 @@
+c:\dev\target-backend-teste\terceira-resolucao-backend\ResolucaoCSharp\bin\Debug\net8.0\ResolucaoCSharp.exe
+C:\dev\target-backend-teste\terceira-resolucao-backend\ResolucaoCSharp\bin\Debug\net8.0\ResolucaoCSharp.deps.json
+C:\dev\target-backend-teste\terceira-resolucao-backend\ResolucaoCSharp\bin\Debug\net8.0\ResolucaoCSharp.runtimeconfig.json
+c:\dev\target-backend-teste\terceira-resolucao-backend\ResolucaoCSharp\bin\Debug\net8.0\ResolucaoCSharp.dll
+c:\dev\target-backend-teste\terceira-resolucao-backend\ResolucaoCSharp\bin\Debug\net8.0\ResolucaoCSharp.pdb
+c:\dev\target-backend-teste\terceira-resolucao-backend\ResolucaoCSharp\obj\Debug\net8.0\ResolucaoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\target-backend-teste\terceira-resolucao-backend\ResolucaoCSharp\obj\Debug\net8.0\ResolucaoCSharp.AssemblyInfoInputs.cache
+c:\dev\target-backend-teste\terceira-resolucao-backend\ResolucaoCSharp\obj\Debug\net8.0\ResolucaoCSharp.AssemblyInfo.cs
+c:\dev\target-backend-teste\terceira-resolucao-backend\ResolucaoCSharp\obj\Debug\net8.0\ResolucaoCSharp.csproj.CoreCompileInputs.cache
+c:\dev\target-backend-teste\terceira-resolucao-backend\ResolucaoCSharp\obj\Debug\net8.0\ResolucaoCSharp.sourcelink.json
+c:\dev\target-backend-teste\terceira-resolucao-backend\ResolucaoCSharp\obj\Debug\net8.0\ResolucaoCSharp.dll
+c:\dev\target-backend-teste\terceira-resolucao-backend\ResolucaoCSharp\obj\Debug\net8.0\refint\ResolucaoCSharp.dll
+c:\dev\target-backend-teste\terceira-resolucao-backend\ResolucaoCSharp\obj\Debug\net8.0\ResolucaoCSharp.pdb
+C:\dev\target-backend-teste\terceira-resolucao-backend\ResolucaoCSharp\obj\Debug\net8.0\ResolucaoCSharp.genruntimeconfig.cache
+C:\dev\target-backend-teste\terceira-resolucao-backend\ResolucaoCSharp\obj\Debug\net8.0\ref\ResolucaoCSharp.dll
