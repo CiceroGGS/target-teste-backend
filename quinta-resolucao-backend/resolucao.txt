@@ -1,0 +1,68 @@
+Formulas que considero importante para resolucao do problema:
+
+    - Tempo (t): (Tempo = Distância / Velocidade )
+        => (t =  d / Vm );
+
+    - Velocidade Media(Vm): (Velocidade media = Distancia / Tempo )
+        => (Vm = d / t);
+
+    - Velocidade relativa objetos na mesma direção(Vrel): (Velocidade do objeto X -  Velocidade do objeto Y )
+        => (Vme = Vx - Vy):
+
+    - Velocidade de aproximação (Va): (Velocidade de aproximação = Velocidade do objeto X + Velocidade do objeto Y)
+        => (Va = Vx + Vy);
+
+    - Tempo até o encontro (T): (Tempo até o encontro = Distancia Inicial / Valocidade de aproximação)
+        => (T = D / Va);
+
+
+Dados do problema diponíveis na questão:
+
+   - Distância de 125km entre a cidade de Ribeirão Preto <---> Barretos.
+   - Velocidade constante do carro: 90 km/h.
+   - Velocidade constante do caminhão: 80 km/h.
+   - 3 pedágios como obstáculo.
+   - O carro leva 5 minutos a mais para passar em cada um deles.
+
+
+Tempo total da viagem do carro:
+
+   - Tempo sem pedágios: 125 km / 90 km/h ≈ 1,39 horas.
+   - Tempo nos pedágios 3*(1/12) = 1/4 hora = 0,25 hora.
+   - Tempo total: 1,39 horas + 0,25 horas = 1,64 horas.
+
+
+Velocidade relativa dos veículos:
+
+   - Velocidade relativa: 90 km/h + 80 km/h = 170 km/h.
+
+
+Tempo que os dois veículos levam para se encontrar:
+
+   - Valocidade de aproximação(Va): 90 km/h + 80 km/h =  170 km/h.
+   - Tempo até o encontro(T):  125 km / 170 km/h ≈ 0,735 horas.
+
+
+Distancia que cada um dos veículos percorreu para se encontrar:
+
+   - Distancia carro: 90 km/h * 0,735 h = 66,15 km.
+   - Distancia caminhão: 80 km/h * 0,735 h ≈ 58,8 km
+
+
+Se compararmos as distância até Ribeirão Preto dos dois teremos:
+
+   - Distância carro até Ribeirão Preto: 66,15 km.
+   - Distância caminhão até Ribeirão Preto: 125 km - 58,8 km = 66,2 km.
+
+
+Resposta final e explicações:
+
+    Quando eles se cruzarem no percurso, qual estará mais próximo da cidade de Ribeirão Preto?
+
+    R: Quando se cruzarem, o caminhão estará mais próximo de Ribeirão Preto.
+
+   - Quando os veículos se cruzarem, o caminhão estará mais próximo de Ribeirão Preto, enquanto o carro estará mais próximo de Barretos. Isso acontece porque o ponto de encontro será mais próximo da cidade de origem do veículo mais lento, no caso, o caminhão. A distância do caminhão até Ribeirão Preto será de 66,2 km (125 km de distância inicial - 58,8 km percorridos), enquanto o carro percorrerá aproximadamente 66,15 km até o encontro.
+
+   - Apesar das paradas nos pedágios, a velocidade média não é relevante para determinar o ponto de encontro. O fator que realmente importa é a velocidade relativa entre os veículos, que é a soma de suas velocidades. A velocidade relativa entre o carro e o caminhão, nesse caso, é de 170 km/h (90 km/h do carro + 80 km/h do caminhão). Essa velocidade determina a rapidez com que a distância entre eles diminui, independentemente de paradas no caminho.
+
+   - A velocidade relativa é constante e define a taxa de aproximação entre os dois veículos, o que significa que a distância entre eles diminui 170 km a cada hora. Mesmo com as paradas do carro nos pedágios, sua maior velocidade o faz percorrer uma distância maior no mesmo intervalo de tempo, aproximando-o mais de Barretos, enquanto o caminhão estará mais próximo de Ribeirão Preto.
